@@ -494,5 +494,19 @@
 {"id":"493","district_id":"39","name":"Madhyanagar","bn_name":"মধ্যনগর","url":"null"},
 {"id":"494","district_id":"50","name":"Dasar","bn_name":"ডাসার","url":"null"},
 
-{"id":"495","district_id":"47","name":"Arif","bn_name":"ডাসার","url":"null"}
+{"id":"495","district_id":"47","name":"Kotwali Thana","bn_name":"null","url":"null"},
+{"id":"496","district_id":"47","name":"Mohammadpur Thana","bn_name":"null","url":"null"},
+{"id":"497","district_id":"47","name":"Lalbagh Thana","bn_name":"null","url":"null"},
+{"id":"498","district_id":"47","name":"Sutrapur Thana","bn_name":"null","url":"null"},
+{"id":"499","district_id":"47","name":"Motijgil Thana","bn_name":"null","url":"null"},
+{"id":"500","district_id":"47","name":"Demra Thana","bn_name":"null","url":"null"},
+{"id":"501","district_id":"47","name":"Sabujbagh Thana","bn_name":"null","url":"null"},
+{"id":"502","district_id":"47","name":"Mirpur Thana","bn_name":"null","url":"null"},
+{"id":"503","district_id":"47","name":"Gulshan Thana","bn_name":"null","url":"null"},
+{"id":"504","district_id":"47","name":"Uttara Thana","bn_name":"null","url":"null"},
+{"id":"505","district_id":"47","name":"Pallabi Thana","bn_name":"null","url":"null"},
+{"id":"506","district_id":"47","name":"Cantonment Thana","bn_name":"null","url":"null"},
+{"id":"507","district_id":"47","name":"Dhanmondi Thana","bn_name":"null","url":"null"},
+{"id":"508","district_id":"47","name":"Tejgaon Thana","bn_name":"null","url":"null"},
+{"id":"509","district_id":"47","name":"Ramna Thana","bn_name":"null","url":"null"}
 ]
